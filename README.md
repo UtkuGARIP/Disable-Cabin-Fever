@@ -1,9 +1,9 @@
-Disable-Cabin-Fever
+Kabin ısısını devre dışı bırak
 
 
-This is a mod for **The Long Dark** by Hinterland Studio, Inc.
+Bu mod **The Long Dark** oyunu için ek özellik sağlar. (Hinterland Studio, Inc.)
 
-It completely disables Cabin Fever.
+Kabin ısısını tamamen devre dışı bırakır.
 
 
-For installation instructions see [Releases](https://github.com/WulfMarius/Disable-Cabin-Fever/releases/latest)
+Kurulum talimatları için bkz. [Bültenler](https://github.com/WulfMarius/Disable-Cabin-Fever/releases/latest)
